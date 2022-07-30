@@ -1,2 +1,2 @@
 let nome ="Alisson Marques"
-let cidade = "São Paulo"
+let cidade = "Rio de Janeiro - RJ"
